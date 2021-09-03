@@ -52,6 +52,7 @@
         <module>saml-query-profile-client</module>
         <module>oidc-uma-samples</module>
         <module>bulk-user-export-tool/scim-bulk-user-export-tool</module>
+        <module>admin-forced-password-reset/admin-forced-password-reset-tool</module>
         <module>workflow</module>
         <module>xacml</module>
         <module>user-mgt</module>
